@@ -3,3 +3,4 @@
 - Voorkeurenpagina aanmaken en op kunnen roepen.
 - Instances kunnen aanmaken en verwijderen.
 - Kleuren in kunnen stellen per instance.
+- 
