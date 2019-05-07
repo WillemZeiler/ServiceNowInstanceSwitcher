@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "name": "ServiceNow Instance Switcher",
+    "author": "OneStarter",
+    "description": "Switch easily between instances",
+    "manifest_version": 2,
+
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+}
