@@ -1,0 +1,6 @@
+- SharePoint share aanmaken voor het delen van code. Voor alle BITS projecten?
+- Naam en instance opslaan en laden vanuit storage.
+- Voorkeurenpagina aanmaken en op kunnen roepen.
+- Instances kunnen aanmaken en verwijderen.
+- Kleuren in kunnen stellen per instance.
+- 
